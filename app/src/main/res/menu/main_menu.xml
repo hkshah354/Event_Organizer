@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add_event"
+        android:title="Add Event"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_view_events"
+        android:title="View Events"
+        android:orderInCategory="100"/>
+</menu>
